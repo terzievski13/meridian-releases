@@ -1,7 +1,6 @@
 # Meridian — releases
 
-Build artifacts for [Meridian](https://meridian-app.vercel.app), a single-user
-focus timer for macOS. **The source lives in a private repository; this one holds
+Build artifacts for Meridian, a single-user focus timer for macOS. **The source lives in a private repository; this one holds
 only the built files**, because a downloaded app and an auto-update need a
 public URL and nothing else here needs to be public.
 
